@@ -4,7 +4,7 @@
     "require": {
         "laravel/framework": ">5.4",
         "laravel/socialite": ">3.0",
-        "guzzlehttp/guzzle": "^6.3"
+        "guzzlehttp/guzzle": ">6.3"
     },
     "authors": [
         {
